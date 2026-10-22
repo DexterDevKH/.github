@@ -81,14 +81,6 @@ Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badg
         alt="Dexter's GitHub Trophies" />
 </p>
 
-### 📈 Activity Graph
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DexterDevKH&theme=dark&radius=10"
-        alt="DexterDevKH's Activity Graph" width="100%" />
-</p>
-
----
-
 ## 🥷 Git Contribution Contribution Game
 
 <p align="center">
