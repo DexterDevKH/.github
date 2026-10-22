@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://komarev.com/ghpvc/?username=DexterDevKH">
-        <img src="https://komarev.com/ghpvc/?username=DexterDevKH&label=Profile%20views&style=for-the-badge&color=a371f7"
+        <img src="https://komarev.com/ghpvc/?username=DexterDevKH"
             alt="DexterDevKH's profile views" />
     </a>
 </p>
