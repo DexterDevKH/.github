@@ -1,12 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Dexter%20%E3%82%B7&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%2FFiveM%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65"
     width="100%" />
 
-<p align="center">
-    <a href="https://komarev.com/ghpvc/?username=DexterDevKH">
-        <img src="https://komarev.com/ghpvc/?username=DexterDevKH"
-            alt="DexterDevKH's profile views" />
-    </a>
-</p>
+<div align="center">
+  <a href="https://github.com/DexterDevKH">
+    <img src="https://komarev.com/ghpvc/?username=DexterDevKH&label=Profile%20Views&color=238636&style=for-the-badge" alt="DexterDevKH's Profile Views" />
+  </a>
+</div>
 
 ---
 
